@@ -12,7 +12,7 @@ public class PlaneController : MonoBehaviour
     public ParticleSystem impactEffect; // Hi?u ?ng sau khi va ch?m x?y ra
 
     private float speed = 0f; // T?c ?? máy bay hi?n t?i
-    private float maxSpeed = 150f; // T?c ?? máy bay t?i ?a
+    private float maxSpeed = 500f; // T?c ?? máy bay t?i ?a
     private float speedAcceleration = 0.3f; // Gia t?c máy bay
     private float speedDecay = 0.5f; // Giá tr? hao mòn t?c ??
     private float pitchSpeed = 60; // T?c ?? nâng h? ??u máy bay

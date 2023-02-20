@@ -86,6 +86,7 @@
     <None Include="Assets\Plane\PyroParticles\Readme.txt" />
     <None Include="Assets\RainMaker\Prefab\RainShader.shader" />
     <None Include="Assets\Pier_house 2\Credits.txt" />
+    <None Include="Assets\SkySeries Freebie\Hdri setup.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
