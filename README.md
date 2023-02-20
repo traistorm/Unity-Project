@@ -9,8 +9,8 @@
 
 ##### Chú ý
 
-###### Unity phiên bản : 2020.3.42f1
-
-###### Visual studio comunity 2022
-
-###### Do github giới hạn kích thước file có thể tải lên, do đó nhóm sẽ kèm link full của project đã được nén lại và đưa lên google drive dưới đây
+*   Unity phiên bản : 2020.3.42f1
+*   Visual studio comunity 2022
+*   Điều khiển máy bay bằng bàn giọng nói
+*   Do github giới hạn kích thước file có thể tải lên, do đó nhóm sẽ kèm link full của project đã được nén lại và đưa lên google drive dưới đây
+*   Link :
